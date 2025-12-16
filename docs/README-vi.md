@@ -1,7 +1,7 @@
 [English](README.md) | **Tiếng Việt (Vietnamese)**
 
 > [!WARNING]
-> Hiện dự án này đang trong quá trình tạm hoãn, vậy nên sẽ không có bất kỳ bản cập nhật nào trong tương lai, tất nhiên nó sẽ được gỡ bỏ khi nào tôi sẵn sàng phát triển tiếp dự án này...
+> DỰ ÁN NÀY ĐANG BỊ TRÌ HOÃN, sẽ không có bất kỳ bản cập nhật nào trong tương lai, tất nhiên nó sẽ được gỡ bỏ sớm khi có thông báo mới...
 
 # Notes (Ghi chú)
 
